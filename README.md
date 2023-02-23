@@ -72,7 +72,7 @@ The project template includes four files:
   
 # How To run Project 
 
--1 Load your AWS Information into file dwh.cfg 
--2 Run Create_tables.py
--3 Run etl.py 
--4 run Result_check.py 
+-1 Load your AWS Information into file dwh.cfg <br>
+-2 Run Create_tables.py <br>
+-3 Run etl.py  <br>
+-4 run Result_check.py <br>
