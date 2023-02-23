@@ -70,7 +70,7 @@ The project template includes four files:
  **sql_queries.py** :*is where you'll define you SQL statements, which will be imported into the two other files above.* <br>
  **README.md** :*is where you'll provide discussion on your process and decisions for this ETL pipeline.* <br>
   
-#How To run Project 
+# How To run Project 
 
 -1 Load your AWS Information into file dwh.cfg 
 -2 Run Create_tables.py
