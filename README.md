@@ -76,3 +76,8 @@ The project template includes four files:
 -2 Run Create_tables.py <br>
 -3 Run etl.py  <br>
 -4 run Result_check.py <br>
+
+
+
+![image](https://user-images.githubusercontent.com/47276503/224638408-77d20513-72bf-4262-92ee-8f8cd9de6d82.png)
+
