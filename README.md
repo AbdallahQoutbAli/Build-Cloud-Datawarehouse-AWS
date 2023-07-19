@@ -1,14 +1,4 @@
 # Data-Engineer-Nanodegree-Projects-Udacity
-Projects done in the [Data Engineer Nanodegree by Udacity.com](https://www.udacity.com/course/data-engineer-nanodegree--nd027)
-
-## Course 2: Cloud Data Warehouses
-### Introduction to the Data Warehouses
-- Understand Data Warehousing architecture
-- Run an ETL process to denormalize a database (3NF to Star)
-- Create an OLAP cube from facts and dimensions
-- Compare columnar vs. row oriented approaches
-
-
 
 
 ### Project  Introduction 
