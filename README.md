@@ -8,16 +8,7 @@ Projects done in the [Data Engineer Nanodegree by Udacity.com](https://www.udaci
 - Create an OLAP cube from facts and dimensions
 - Compare columnar vs. row oriented approaches
 
-### Introduction to the Cloud with AWS
-- Understand cloud computing
-- Create an AWS account and understand their services
-- Set up Amazon S3, IAM, VPC, EC2, RDS PostgreSQL
 
-### Implementing Data Warehouses on AWS
-- Identify components of the Redshift architecture
-- Run ETL process to extract data from S3 into Redshift
-- Set up AWS infrastructure using Infrastructure as Code (IaC)
-- Design an optimized table by selecting the appropriate distribution style and sorting key
 
 
 ### Project  Introduction 
@@ -67,10 +58,20 @@ The project template includes four files:
 
  **create_table.py** :*is where you'll create your fact and dimension tables for the star schema in Redshift.* <br>
  **etl.py** :*is where you'll load data from S3 into staging tables on Redshift and then process that data into your analytics tables on Redshift.*  <br>
- **sql_queries.py** :*is where you'll define you SQL statements, which will be imported into the two other files above.* <br>
- **README.md** :*is where you'll provide discussion on your process and decisions for this ETL pipeline.* <br>
+ **sql_queries.py** :*is where you'll define your SQL statements, which will be imported into the two other files above.* <br>
+ **README.md** :*is where you'll provide a discussion on your process and decisions for this ETL pipeline.* <br>
   
+### Steps of Implementing Data Warehouses on AWS
+- Understand cloud computing
+- Create an AWS account and understand their services
+- Set up Amazon S3, IAM, VPC, EC2, RDS PostgreSQL
+- Set up AWS infrastructure using Infrastructure as Code (IaC)
+- Run the ETL process to extract data from S3 into Redshift
+- Design an optimized table by selecting the appropriate distribution style and sorting key
+
 # How To run Project 
+
+
 
 -1 Load your AWS Information into file dwh.cfg <br>
 -2 Run Create_tables.py <br>
